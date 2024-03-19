@@ -12,3 +12,9 @@ print(my_list) # wydrukowanie dodanego elementu  'new item'
 ############
 my_list.remove("Python")
 print(my_list) # wydrukowanie usunietego elementu  'Python'
+############
+############
+def test():
+    print("Czy funkcja działa?")
+    print(my_list)
+test()
